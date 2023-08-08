@@ -16,7 +16,7 @@ continuent à jouer leurs rôles dans la défense de l’organisme contre les ag
 Ce rapport présente les comportements résultants de chaque test effectué
 sur les différentes fonctionnalités du SMA implémentés
 	
-	Afin de réaliser notre projet de simulation, nous avons choisi de simuler une interaction entre les globules blancs et les 
+	Afin hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhde réaliser notre projet de simulation, nous avons choisi de simuler une interaction entre les globules blancs et les 
 virus pour cela  nous avons mis en pratique un système multi-agents, implémenté en _JAVA_
 
 
